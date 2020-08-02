@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap");
+body {
+  font-family: "Ubuntu", sans-serif;
+  background-image: linear-gradient(to right, #a2c1f1, #627d90);
+}
+
+#first, #second {
+  height: 200px;
+  width: 200px;
+  border: thin #888686 solid;
+  margin: 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  -webkit-box-shadow: 2px 0px 20px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 2px 0px 20px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 2px 0px 20px 0px rgba(0, 0, 0, 0.75);
+}
+
+.game-content {
+  max-width: 980px;
+  margin: 0 auto;
+  margin-top: 140px;
+}
+.game-content .inner-content {
+  text-align: center;
+}
+.game-content .inner-content #game {
+  margin: 5px;
+  padding: 10px;
+}
+.game-content .inner-content .box {
+  display: flex;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=style.css.map */

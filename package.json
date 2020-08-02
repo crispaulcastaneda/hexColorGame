@@ -1,0 +1,21 @@
+{
+  "name": "hexgame",
+  "version": "1.0.0",
+  "description": "Hex game for swithcing colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.github.com/crispaulcastaneda/hexColorGame"
+  },
+  "keywords": [
+    "html",
+    "javascript",
+    "css",
+    "sass"
+  ],
+  "author": "thedevcristian",
+  "license": "MIT"
+}
